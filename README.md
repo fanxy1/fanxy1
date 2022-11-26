@@ -1,4 +1,12 @@
-### Hi there 👋
+# 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 K K
+
+[![](https://img.shields.io/badge/--%23000000?style=flat&logo=zhihu&logoColor=ffffff)](https://www.zhihu.com/people/you-dang-de-gou/posts)
+
+:smiley: ` ` I am a developer from [Cheng'du]
+
+## [𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸](https://github.com/fanxy1/fanxy1)
+![Elixir](https://img.shields.io/badge/-Elixir-%234B275F?style=flat-square&logo=elixir&logoColor=ffffff)
+![Java](https://img.shields.io/badge/-Java-%23007396?style=flat-square&logo=java&logoColor=ffffff)
 
 <!--
 **fanxy1/fanxy1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
