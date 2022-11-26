@@ -6,6 +6,7 @@
 
 ## [𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸](https://github.com/fanxy1/fanxy1)
 ![Elixir](https://img.shields.io/badge/-Elixir-%234B275F?style=flat-square&logo=elixir&logoColor=ffffff)
+![Ruby](https://img.shields.io/badge/Ruby-red?style=red&logo=Ruby&logoColor=ff0000)
 ![Java](https://img.shields.io/badge/-Java-%23007396?style=flat-square&logo=java&logoColor=ffffff)
 
 <!--
