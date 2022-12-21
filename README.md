@@ -2,7 +2,7 @@
 
 [![](https://img.shields.io/badge/--%23000000?style=flat&logo=zhihu&logoColor=ffffff)](https://www.zhihu.com/people/you-dang-de-gou/posts)
 
-:smiley: ` ` I am a developer from [Cheng'du]
+:smiley: I am a developer from Cheng'du
 
 ## [𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸](https://github.com/fanxy1/fanxy1)
 ![Elixir](https://img.shields.io/badge/-Elixir-%234B275F?style=flat-square&logo=elixir&logoColor=ffffff)
