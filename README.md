@@ -44,8 +44,8 @@ I'm a developer who enjoys building reliable backend systems and shipping them w
 ## GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=fanxy1&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fanxy1&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
+  <img height="180" src="./profile/stats.svg" alt="GitHub stats" />
+  <img height="180" src="./profile/top-langs.svg" alt="Top languages" />
   <br />
   <img src="https://streak-stats.demolab.com/?user=fanxy1&theme=github-dark&hide_border=true" alt="GitHub streak" />
 </div>
@@ -53,7 +53,7 @@ I'm a developer who enjoys building reliable backend systems and shipping them w
 ## Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fanxy1&theme=github-compact&hide_border=true" alt="Contribution graph" />
+  <img src="./profile/activity.svg" alt="Contribution graph" />
 </div>
 
 ---
